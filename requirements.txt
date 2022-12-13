@@ -1,0 +1,6 @@
+pyrogram
+rich
+aiogram
+aiofiles
+pysocks
+python-socks
